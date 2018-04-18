@@ -1,0 +1,10 @@
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/bin/Debug/netcoreapp2.0/ShoppingCart.deps.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/bin/Debug/netcoreapp2.0/ShoppingCart.runtimeconfig.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/bin/Debug/netcoreapp2.0/ShoppingCart.runtimeconfig.dev.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/bin/Debug/netcoreapp2.0/ShoppingCart.dll
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/bin/Debug/netcoreapp2.0/ShoppingCart.pdb
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/obj/Debug/netcoreapp2.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/obj/Debug/netcoreapp2.0/ShoppingCart.AssemblyInfoInputs.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/obj/Debug/netcoreapp2.0/ShoppingCart.AssemblyInfo.cs
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/obj/Debug/netcoreapp2.0/ShoppingCart.dll
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/ShoppingCart/obj/Debug/netcoreapp2.0/ShoppingCart.pdb
